@@ -1,0 +1,10 @@
+first setup the project in your system and then open your MySQL and import the sql file which is attached in git.
+
+How to run the project
+1.first setup the project and database in mysql.
+2.run your local server 
+3.open any browser and type this url "localhost/contact_form" 
+4.a basic html form is  open 
+5.Now fill the details accordingly and click on submit button
+6.check your database now.
+7.if you want to fill another form then click on go back to form it will redirect you to form page
